@@ -31,11 +31,11 @@ To manage shopping operations like:
 
 ---
 
-## 🧪 Technologies Used
+## 🧪 Technologies Used tools
 - MySQL
 - XAMPP + phpMyAdmin
 - GitHub
-
+git 
 ---
 
 ## 📈 Sample Output
