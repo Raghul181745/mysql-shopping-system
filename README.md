@@ -38,7 +38,7 @@ To manage shopping operations like:
 git 
 ---
 
-## 📈 Sample Output
+## 📈 Sample output 
 ```sql
 CALL PlaceOrder(1003, 102, 1, 2, 3, 2);
 ```
